@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <h3 align="center">💼 Developer | 💻 Building cool web apps </h3>
-<h1 align="center">🌐 [Portfolio Website]</h1>(https://my-portfolio-two-kappa-90.vercel.app/)
+<h1 align="center">
+  🌐 <a href="https://my-portfolio-two-kappa-90.vercel.app/" target="_blank">Portfolio Website</a>
+</h1>
 
 - 🌱 I’m currently learning **AWS , Docker**
 
