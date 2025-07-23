@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan rathour</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">A passionate Full Stack(MERN) developer from India</h3>
 
 <h3 align="center">💼 Developer | 💻 Building cool web apps </h3>
 <h1 align="center">
